@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shenx007
-- 👀 I’m interested in programming editing
-- 🌱 I’m currently learning java
+- 👀 I’m a software and web developer
 - 📫 alokashehan@gmail.com
 
 <!---
